@@ -102,4 +102,5 @@ Finally, the regression coefficients for the independent variables provided valu
 
 Overall, the key insights gained from the linear regression modeling and testing process provide valuable information for understanding the factors that affect vehicle sales price and for making predictions on new data.
 
-
+## Credits
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License. If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
