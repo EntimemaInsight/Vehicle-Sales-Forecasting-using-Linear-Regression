@@ -1,4 +1,4 @@
-# Vehicle-Sales-Forecasting-Linear-Regression-Python-Model
+# Vehicle-Sales-Forecasting-using-Linear-Regression
 This project uses linear regression to forecast the sales price of vehicles based on various features such as mileage, engine volume, brand, body type, and more. The dataset used in this project is taken from a CSV file containing information on used cars sold in the European market.
 
 ## Installation
